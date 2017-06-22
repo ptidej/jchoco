@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="choco.test.util.StoredPointerCycleTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2017-06-22T22:19:12" hostname="icaro" time="0.047">
+  <properties/>
+  <testcase name="test10" classname="choco.test.util.StoredPointerCycleTest" time="0.012"/>
+  <testcase name="test11" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <testcase name="test12" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <testcase name="test13" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <testcase name="test1" classname="choco.test.util.StoredPointerCycleTest" time="0.011"/>
+  <testcase name="test2" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <testcase name="test3" classname="choco.test.util.StoredPointerCycleTest" time="0.001"/>
+  <testcase name="test4" classname="choco.test.util.StoredPointerCycleTest" time="0.001"/>
+  <testcase name="test5" classname="choco.test.util.StoredPointerCycleTest" time="0.001"/>
+  <testcase name="test6" classname="choco.test.util.StoredPointerCycleTest" time="0.001"/>
+  <testcase name="test7" classname="choco.test.util.StoredPointerCycleTest" time="0.001"/>
+  <testcase name="test8" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <testcase name="test9" classname="choco.test.util.StoredPointerCycleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="choco.test.integer.IntLinCombTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-22T22:19:12" hostname="icaro" time="0.034">
+  <properties/>
+  <testcase name="test1" classname="choco.test.integer.IntLinCombTest" time="0.003"/>
+  <testcase name="test2" classname="choco.test.integer.IntLinCombTest" time="0.006"/>
+  <testcase name="test3" classname="choco.test.integer.IntLinCombTest" time="0.005"/>
+  <testcase name="test4" classname="choco.test.integer.IntLinCombTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

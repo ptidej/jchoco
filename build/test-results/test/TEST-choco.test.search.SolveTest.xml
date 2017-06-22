@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="choco.test.search.SolveTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-22T22:19:12" hostname="icaro" time="0.024">
+  <properties/>
+  <testcase name="test1" classname="choco.test.search.SolveTest" time="0.002"/>
+  <testcase name="test2" classname="choco.test.search.SolveTest" time="0.004"/>
+  <testcase name="test3" classname="choco.test.search.SolveTest" time="0.005"/>
+  <testcase name="test4" classname="choco.test.search.SolveTest" time="0.012"/>
+  <system-out><![CDATA[Pb[2 vars, 2 cons]
+X[2, 2]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[0, 0]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[1, 1]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[2, 2]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[3, 3]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[4, 4]
+Y[1, 1]
+
+Pb[2 vars, 1 cons]
+X[5, 5]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[0, 0]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[1, 1]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[2, 2]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[3, 3]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[4, 4]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[5, 5]
+Y[0, 0]
+
+Pb[2 vars, 0 cons]
+X[0, 0]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[1, 1]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[2, 2]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[3, 3]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[4, 4]
+Y[1, 1]
+
+Pb[2 vars, 0 cons]
+X[5, 5]
+Y[1, 1]
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
